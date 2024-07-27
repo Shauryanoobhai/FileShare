@@ -30,9 +30,7 @@
 
 𝗡𝗢𝗧𝗘 :- 𝗙𝗢𝗥𝗞 𝗥𝗘𝗣𝗢 𝗕𝗘𝗙𝗢𝗥𝗘 𝗨𝗦𝗜𝗡𝗚 𝗔𝗡𝗗 𝗗𝗢𝗡'𝗧 𝗙𝗢𝗥𝗚𝗘𝗧 𝗧𝗢 𝗚𝗜𝗩𝗘 𝗦𝗧𝗔𝗥𝗦 😌 
 
-<h3 align="center">
-    『 sᴜᴩᴩᴏʀᴛ 』
-</h3>
+
 
 <p align="center">
 <a href="https://telegram.me/Ahjin_Sprt"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
