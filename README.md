@@ -26,3 +26,5 @@
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Shauryanoobhai/FileShare"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+𝗡𝗢𝗧𝗘 :- 𝗙𝗢𝗥𝗞 𝗥𝗘𝗣𝗢 𝗕𝗘𝗙𝗢𝗥𝗘 𝗨𝗦𝗜𝗡𝗚 𝗔𝗡𝗗 𝗗𝗢𝗡'𝗧 𝗙𝗢𝗥𝗚𝗘𝗧 𝗧𝗢 𝗚𝗜𝗩𝗘 𝗦𝗧𝗔𝗥𝗦 😌 
